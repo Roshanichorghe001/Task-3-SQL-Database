@@ -29,7 +29,6 @@ This file contains all required SQL queries such as:
 
 These queries demonstrate understanding of joins, grouping, filtering, and ordering.
 
----#
 📚 Summary
 
 This project demonstrates:
