@@ -29,22 +29,21 @@ This file contains all required SQL queries such as:
 
 These queries demonstrate understanding of joins, grouping, filtering, and ordering.
 
----
-
+---#
 📚 Summary
 
 This project demonstrates:
 
-    Database design
+Database design
 
-    Table creation
+Table creation
 
-    Data insertion
+Data insertion
 
-    SQL joins
+SQL joins
 
-    Grouping and aggregation
+Grouping and aggregation
 
-    Real-world ecommerce data analysis
+Real-world ecommerce data analysis
 
 It is a complete mini-project built using PostgreSQL.
