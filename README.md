@@ -1,5 +1,3 @@
-# Task-3-SQL-Database
-PostgreSQL Ecommerce Database Setup and SQL Queries
 # 📦 Ecommerce Database Project (PostgreSQL)
 
 This project contains the database setup and SQL queries for an **Ecommerce Management System** created as part of an internship task.
@@ -32,20 +30,6 @@ This file contains all required SQL queries such as:
 These queries demonstrate understanding of joins, grouping, filtering, and ordering.
 
 ---
-
-## 🛠️ How to Run the Project
-
-### **1. Open PostgreSQL**
-```bash
-psql -U postgres
-
-2. Run the database setup file
-
-\i database_setup.sql
-
-3. Run the queries file
-
-\i queries.sql
 
 📚 Summary
 
